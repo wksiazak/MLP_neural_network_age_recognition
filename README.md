@@ -1,11 +1,11 @@
 ## Age prediction in MLP neural network project 
-This code allows to predict age from photo based on trained MLP model trained on data available on kaggle dataset https://www.kaggle.com/datasets/mariafrenti/age-prediction/data
+This code allows to predict age from photo based on MLP model trained on data available on kaggle dataset https://www.kaggle.com/datasets/mariafrenti/age-prediction/data
 
 ### Table of content 
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [More details about technology](#more-details)
+* [Summary](#summary)
 
 ## General info <a name="general-info"></a>
 <details>
@@ -26,3 +26,6 @@ Main purpose of this  script is to
 
 </details>
 
+## Summary <a name="summary"></a>
+<details>
+</details>
