@@ -22,7 +22,10 @@ The project consists of several steps, including:</p>
 
 ## Technolgies <a name="technologies/libraries"></a>
 <ul>
-<li>Python</li>
+<li>Python -  scripts are written in Python</li>
+<li>tensorflow</li>
+<li>sklearn</li>
+<li>matplotlib</li>
 </ul>
 
 
