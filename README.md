@@ -33,9 +33,8 @@ The project consists of several steps, including:</p>
 <details>
 <summary>Click here to see more about <b>details</b>!</summary>
 Model which was built from seven layers (first flatten, five dense and one output) in 50 epochs shows below losses and MAEs during training: 
-![Opis obrazka](https://github.com/wksiazak/MLP_neural_network_age_recognition/blob/master/examples.png)
+![Opis obrazka](https://raw.githubusercontent.com/wksiazak/MLP_neural_network_age_recognition/master/examples.png)
 </details>
-<img src=”URL” width=”50%” height=”50%”>
 
 
 ## Summary <a name="summary"></a>
