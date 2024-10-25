@@ -32,6 +32,7 @@ The project consists of several steps, including:</p>
 ## Results <a name="results"></a>
 <details>
 <summary>Click here to see more about <b>details</b>!</summary>
+Model which was built from seven layers (first flatten, five dense and one output) in 50 epochs shows below losses and MAEs during training: 
 
 </details>
 
