@@ -34,7 +34,8 @@ The project consists of several steps, including:</p>
 <summary>Click here to see more about <b>details</b>!</summary>
   
 Model which was built from seven layers (first flatten, five dense and one output) in 50 epochs shows below losses and MAEs during training: 
-![Opis obrazka](https://github.com/wksiazak/MLP_neural_network_age_recognition/issues/1#issue-2614840799)
+
+![Loss & MAE](https://github.com/wksiazak/MLP_neural_network_age_recognition/blob/master/final_figure.png)
 
 # Loss over Epochs
 - Trend: Both training and validation loss start very high and decrease rapidly within the first 10 epochs. After that, they stabilize and maintain relatively - steady values around 80.
