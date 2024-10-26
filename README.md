@@ -46,8 +46,11 @@ Model which was built from seven layers (first flatten, five dense and one outpu
 - Initial Decrease: Both the training and validation MAE start at high values (~12) and drop sharply in the first 10 epochs, indicating that the model is quickly learning to reduce prediction error.
 - Convergence: The MAE stabilizes around 7-8 for both training and validation. This is consistent with your project’s results, as an MAE of 7-8 means that the model’s age predictions are, on average, within 7-8 years of the actual age.
 - Consistency: The closeness between training and validation MAE further confirms that the model generalizes well, without substantial overfitting
-</details>
 
+
+![Examples](https://github.com/wksiazak/MLP_neural_network_age_recognition/blob/master/examples.png)
+
+</details>
 
 ## Summary <a name="summary"></a>
 <details>
