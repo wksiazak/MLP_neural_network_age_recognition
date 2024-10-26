@@ -34,9 +34,14 @@ The project consists of several steps, including:</p>
 <summary>Click here to see more about <b>details</b>!</summary>
 Model which was built from seven layers (first flatten, five dense and one output) in 50 epochs shows below losses and MAEs during training: 
 ![Opis obrazka](https://raw.githubusercontent.com/wksiazak/MLP_neural_network_age_recognition/master/examples.png)
+
+MAE (Mean Absolute error) on average is between 7 and 8 which means for our dataset consisting of people photos that predicted age may be even with 7 years error.
+In attached examples.png we can see that how trained model coped with testing photos.  
+  
 </details>
 
 
 ## Summary <a name="summary"></a>
 <details>
+
 </details>
